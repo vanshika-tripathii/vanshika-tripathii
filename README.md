@@ -52,6 +52,4 @@
 
 ---
 
-### 📌 Pinned Projects
-➡️ Check my pinned repositories below 👇  
-They showcase **full-stack, SQL, and testing-focused projects**.
+
