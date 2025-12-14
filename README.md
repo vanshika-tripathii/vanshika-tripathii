@@ -17,16 +17,14 @@
 
 ### 🔗 Connect with Me
 <p>
-  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/vanshika-tripathi-5a9737266//" target="_blank">
+  <a href="https://www.linkedin.com/in/vanshika-tripathi-5a9737266/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
   </a>
   <a href="mailto:vanshikatripathi657@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail">
   </a>
-  <a href="https://vanshikatripathiportfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge">
-  </a>
 </p>
+
 
 ---
 
