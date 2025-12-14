@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Vanshika</h1>
-<h3 align="center">Full Stack Developer | SQL | React | Node | AI & Software Testing</h3>
+<h3 align="center">Full Stack Developer | SQL | React | Node | </h3>
 
 <p align="center">
-  I build <b>full-stack applications</b>, work with <b>databases</b>, and explore <b>AI-driven testing</b>.
+  I build <b>full-stack applications</b>, work with <b>databases</b>.
 </p>
 
 ---
@@ -17,13 +17,13 @@
 
 ### 🔗 Connect with Me
 <p>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank">
+  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/vanshika-tripathi-5a9737266//" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
   </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:vanshikatripathi657@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail">
   </a>
-  <a href="https://YOUR_PORTFOLIO_LINK">
+  <a href="https://vanshikatripathiportfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge">
   </a>
 </p>
@@ -50,18 +50,7 @@
 
 ---
 
-### 📊 GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=react" />
-</p>
 
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=react" />
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=react" />
-</p>
 
 ---
 
