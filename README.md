@@ -1,4 +1,4 @@
-## Hi 👋 I'm Vanshika
+
 
 - 💻 Full Stack Developer  
 - 🛢️ SQL | JavaScript | React | Node  
