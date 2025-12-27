@@ -1,5 +1,5 @@
-<h1 align="center"> Vanshika Tripathi</h1>
-<h3 align="center">Aspiring Software Engineer | Developer | Learner</h3>
+<h1 align="center">Hi 👋, I'm Vanshika Tripathi</h1>
+<h3 align="center">Aspiring Software Engineer | Full Stack Developer | SQL & Backend Enthusiast</h3>
 
 📍 Passionate about building scalable, real-world web applications
 
@@ -75,8 +75,8 @@
 
 ## 🔗 Connect With Me
 
-- 💼 **LinkedIn**: https://www.linkedin.com/in/your-link  
-- 📧 **Email**: your-email@gmail.com  
+- 💼 **LinkedIn**: https://www.linkedin.com/in/vanshika-tripathi-5a9737266/ 
+- 📧 **Email**: vanshikatripathi657@gmail.com  
 
 ---
 ## 📊 GitHub Stats
