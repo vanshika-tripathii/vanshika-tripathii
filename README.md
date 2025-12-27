@@ -79,26 +79,12 @@
 - 📧 **Email**: vanshikatripathi657@gmail.com  
 
 ---
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=vanshika-tripathii&show_icons=true&theme=tokyonight&hide_border=true" 
-    height="170"
-  />
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=vanshika-tripathii&theme=tokyonight&hide_border=true" 
-    height="170"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshika-tripathii&layout=compact&theme=tokyonight&hide_border=true" 
-    height="150"
-  />
-</p>
-
+## 🚀 What I Bring to the Team
+- Clean, readable, and maintainable code
+- Strong debugging and problem-solving skills
+- Understanding of **end-to-end application flow**
+- Ability to quickly adapt to new tools & frameworks
+- Good communication & teamwork mindset
 
 ## 🔥 GitHub Streak
 
