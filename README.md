@@ -90,14 +90,8 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vanshika-tripathii&theme=tokyonight)
 
+ ⭐ Always open to learning, collaboration, and building impactful software.
 
-## 💻 Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vanshika-tripathii&layout=compact&theme=tokyonight)
-
-
-
-⭐ *Feel free to explore my repositories and reach out for collaboration or opportunities!*
 
 
 
