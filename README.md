@@ -1,6 +1,6 @@
-# 👋 Hi, I’m Vanshika Tripathi
+<h1 align="center"> Vanshika Tripathi</h1>
+<h3 align="center">Aspiring Software Engineer | Developer | Learner</h3>
 
-🚀 **Full Stack Developer** | 💻 **Software Developer**  
 📍 Passionate about building scalable, real-world web applications
 
 ---
@@ -83,13 +83,16 @@
 
 ![Vanshika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vanshika-tripathii&show_icons=true&theme=tokyonight)
 
+
 ## 🔥 GitHub Streak
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vanshika-tripathii&theme=tokyonight)
 
- ## 💻 Top Languages
+
+## 💻 Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vanshika-tripathii&layout=compact&theme=tokyonight)
+
 
 
 ⭐ *Feel free to explore my repositories and reach out for collaboration or opportunities!*
