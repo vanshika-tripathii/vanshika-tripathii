@@ -79,9 +79,25 @@
 - 📧 **Email**: vanshikatripathi657@gmail.com  
 
 ---
-## 📊 GitHub Stats
+## 📊 GitHub Stats  
 
-![Vanshika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vanshika-tripathii&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=vanshika-tripathii&show_icons=true&theme=tokyonight&hide_border=true" 
+    height="170"
+  />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=vanshika-tripathii&theme=tokyonight&hide_border=true" 
+    height="170"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshika-tripathii&layout=compact&theme=tokyonight&hide_border=true" 
+    height="150"
+  />
+</p>
 
 
 ## 🔥 GitHub Streak
