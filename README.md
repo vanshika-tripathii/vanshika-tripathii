@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vanshika Tripathi</h1>
 <h3 align="center">Aspiring Software Engineer | Full Stack Developer | SQL & Backend Enthusiast</h3>
 
-📍 Passionate about building scalable, real-world web applications
+<h4 align="center">📍 Passionate about building scalable, real-world web applications
 
 ---
 
