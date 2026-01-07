@@ -21,7 +21,6 @@
 ### 🔤 Languages
 - JavaScript  
 - SQL
-- SQL  
 - C++
 - Java
 
