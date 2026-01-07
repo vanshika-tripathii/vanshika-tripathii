@@ -85,9 +85,7 @@
 - Ability to quickly adapt to new tools & frameworks
 - Good communication & teamwork mindset
 
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vanshika-tripathii&theme=tokyonight)
+---
 
  ⭐ Always open to learning, collaboration, and building impactful software.
 
